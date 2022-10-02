@@ -2,7 +2,7 @@
 **PastaHash/PastaHash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://github.com/pastahash/pastahash/img/header_.png" width="100%" height="auto"/></a>
+<img src="https://github.com/PastaHash/PastaHash/blob/master/img/header_.png" width="100%" height="auto"/></a>
 <p align="center">
 <a href="https://www.linkedin.com/in/lukianchenko-nikita/">
   <img alt="Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
