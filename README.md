@@ -4,7 +4,7 @@
 
 <img src="https://github.com/PastaHash/PastaHash/blob/master/img/header_.png" width="100%" height="auto"/></a>
 <p align="center">
-<a href="https://www.linkedin.com/in/lukianchenko-nikita/">
+<a href="https://www.linkedin.com/in/nikita-lukianchenko/">
   <img alt="Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 </p>
